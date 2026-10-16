@@ -22,7 +22,7 @@ When I'm not writing code, you can usually find me:
 
 ### <img src="https://cdn.discordapp.com/emojis/1093277778759143464" style="width:24px"> What I'm Building
 
-#### <img src="https://cdn.discordapp.com/emojis/1165365556648628224" style="width:32px"> [turnipRPG](https://github.com/bradydallama)
+#### <img src="https://cdn.discordapp.com/emojis/1165365556648628224" style="width:32px"> [turnipRPG](https://turnip.bot)
 > A Discord application (bot) built for thousands of active players! Designed from the ground up to bring relaxing, incremental RPG mechanics directly into community channels.
 
 #### <img src="https://cdn.discordapp.com/emojis/1303430583455715348" style="width:24px"> Interactive Tools & Pixel Art
