@@ -16,7 +16,7 @@ I build helpful apps and digital tools with, mostly in React and TypeScript.
 #### <img src="https://cdn.discordapp.com/emojis/1026838183683571853" width="32" alt="">ui components
 > My own personal React component library: the design system behind my sites and tools.
 
-#### <img src="https://cdn.discordapp.com/emojis/1026838566392844308" width="32" alt="">[pngtuber](https://github.com/BradyDaLlama/pngtuber)
+#### <img src="https://cdn.discordapp.com/emojis/1026838566392844308" width="32" alt="">[pngtuber](https://github.com/BradyDaLlama/react-pngtuber)
 > A PNGTuber avatar tool for streamers, built with React and TypeScript. It assembles pngs and overlays them to create an avatar that responds to audio channels, custom events, emote triggers, and an outfit system.
 
 #### <img src="https://cdn.discordapp.com/emojis/1303430583455715348" width="24" alt=""> Pixel Art & Stream Widgets
