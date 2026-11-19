@@ -4,7 +4,7 @@
 
 `full-stack software engineer` • `part-time pixel artist` • `nintendo nerd`
 
-I build helpful apps and digital tools with, mostly in React and TypeScript.
+I build helpful apps and digital tools, mostly in React and TypeScript.
 
 ---
 
@@ -13,10 +13,10 @@ I build helpful apps and digital tools with, mostly in React and TypeScript.
 #### <img src="https://cdn.discordapp.com/emojis/1165365556648628224" width="32" alt=""> [turnipRPG](https://turnip.bot)
 > A Discord bot with 23,000+ users that brings relaxing, incremental RPG mechanics into community channels. Featured twice in Discord's App Directory.
 
-#### <img src="https://cdn.discordapp.com/emojis/1026838183683571853" width="32" alt="">[ui components & design system](https://github.com/BradyDaLlama/ui)
+#### <img src="https://cdn.discordapp.com/emojis/1026838183683571853" width="32" alt=""> [ui components & design system](https://github.com/BradyDaLlama/ui)
 > My own personal React component library: the design system behind my sites and tools.
 
-#### <img src="https://cdn.discordapp.com/emojis/1026838566392844308" width="32" alt="">[pngtuber](https://github.com/BradyDaLlama/react-pngtuber)
+#### <img src="https://cdn.discordapp.com/emojis/1026838566392844308" width="32" alt=""> [pngtuber](https://github.com/BradyDaLlama/react-pngtuber)
 > A PNGTuber avatar tool for streamers, built with React and TypeScript. It assembles pngs and overlays them to create an avatar that responds to audio channels, custom events, emote triggers, and an outfit system.
 
 #### <img src="https://cdn.discordapp.com/emojis/1303430583455715348" width="24" alt=""> Pixel Art & Stream Widgets
@@ -28,7 +28,7 @@ I build helpful apps and digital tools with, mostly in React and TypeScript.
 
 **Frontend:** `TypeScript` • `React` • `Next.js` • `Tailwind CSS`
 
-**Backend:** `Node.js` • `Next.js` • `MongoDB` • `Redis` • `REST APIs`
+**Backend:** `Node.js` • `MongoDB` • `Redis` • `REST APIs`
 
 **Art & Design:** `Aseprite` • `Figma`
 
