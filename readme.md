@@ -13,7 +13,7 @@ I build helpful apps and digital tools with, mostly in React and TypeScript.
 #### <img src="https://cdn.discordapp.com/emojis/1165365556648628224" width="32" alt=""> [turnipRPG](https://turnip.bot)
 > A Discord bot with 23,000+ users that brings relaxing, incremental RPG mechanics into community channels. Featured twice in Discord's App Directory.
 
-#### <img src="https://cdn.discordapp.com/emojis/1026838183683571853" width="32" alt="">ui components
+#### <img src="https://cdn.discordapp.com/emojis/1026838183683571853" width="32" alt="">[ui components & design system](https://github.com/BradyDaLlama/ui)
 > My own personal React component library: the design system behind my sites and tools.
 
 #### <img src="https://cdn.discordapp.com/emojis/1026838566392844308" width="32" alt="">[pngtuber](https://github.com/BradyDaLlama/react-pngtuber)
